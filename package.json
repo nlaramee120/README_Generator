@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/nlaramee120/README_Generator/issues"
   },
-  "homepage": "https://github.com/nlaramee120/README_Generator#readme"
+  "homepage": "https://github.com/nlaramee120/README_Generator#readme",
+  "devDependencies": {}
 }
