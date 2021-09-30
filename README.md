@@ -7,9 +7,8 @@
 2. [Installation](#Installation)
 3. [User Story](#User-Story)
 4. [Video](#Video)
-5. [Test Instructions](#Test-Instructions)
-6. [License](#License)
-7. [Questions](#Questions)
+5. [License](#License)
+6. [Questions](#Questions)
 ## Description
 - The purpose of this project is to allow users to create professional quality README files through the command line. The generator runs through node which prompts the user to answer questions about the README, in which a README is generated after all of the questions have been answered.
 ## Installation
