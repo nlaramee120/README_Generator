@@ -40,5 +40,5 @@ THEN I am taken to the corresponding section of the README
 - https://choosealicense.com/licenses/mit/
 - A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ## Questions
-- GitHub Profile: <a href="https://github.com/nlaramee120">GitHub</a><br>
+- <a href="https://github.com/nlaramee120">GitHub Profile</a><br>
 - My Email: nlaramee120@aol.com
