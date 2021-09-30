@@ -7,7 +7,6 @@
 2. [Installation](#Installation)
 3. [User Story](#User-Story)
 4. [Video](#Video)
-5. [Test Instructions](#Test-Instructions)
 6. [License](#License)
 7. [Questions](#Questions)
 ## Description
